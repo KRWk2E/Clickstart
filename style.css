@@ -9,7 +9,7 @@ body{
 	color:blue;
 	font-size:150%;
 }
-.btn{
+.btnmine{
 	background-color: yellow;
 	color: black;
 	border: 2px solid purple;
@@ -31,5 +31,5 @@ body{
 	background:lightblue;
 }
 .rounded{
-	border-radius:10px;
+	border-radius:20px;
 }
